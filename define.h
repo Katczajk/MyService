@@ -1,6 +1,8 @@
 #ifndef DEFINE_H // Header Guard
 #define DEFINE_H
 
+/* some declarations here */
+
 #define DESCRIPTION "My Service"
 #define ERROR_CON qCritical() << "An unknown error in the contructor"
 #define ERROR_DES qCritical() << "An unknown error in the destructor"
